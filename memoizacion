@@ -1,0 +1,5 @@
+Consiste en usar una estructura de datos junto a la funcion para evitar calcular multiples veces los valores ya calculados:
+
+para implementarlo se usa un diccionario donde los paramentros de la funcion son usados como llaves, antes de calcular un valor, vemos si esa llave existe en el diccionar, si existe lo devolvemos y salimos de la funcion, si no, lo calculamos y lo agregamos al diccionario.
+
+
